@@ -32,4 +32,4 @@
 </div>
 
 ###
-![MiguelRM18 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![MiguelRM18 GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelRM18&show_icons=true&theme=radical)
